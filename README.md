@@ -2,7 +2,7 @@
 git config user.name<br>
 git config user.email записывается в .git/config<br>
 **3 уровня конфигурации:**<br>
-локальный --local (default) (<project>/.git/config), глобальный --global (\~/.gitconfig, C:/users/<user>/.gitconfig) и системный --system (C/:Program Files/Git/etc/gitconfig)<br>
+локальный --local (default) (\<project\>/.git/config), глобальный --global (\~/.gitconfig, C:/users/\<user\>/.gitconfig) и системный --system (C/:Program Files/Git/etc/gitconfig)<br>
 **Чтение конфигураций:**<br>
 git config --list <br>
 git config --list --global<br>
