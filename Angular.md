@@ -64,5 +64,42 @@ this.messageService.message$.subscribe((message) => { // Подписка на m
 <div *ngFor="let message of messages$ | async"></div>
 ```
 
+# Signals vs Observables
+- Signals - для управления состоянием приложения
+- Observables - для управления событиями и потоками данных
+- У сигналов есть начальное значение, у обзёрваблов может не быть
 
+### Observable to Signal
+```
+obs$ = toObservable(sig);
+...
+this.obs$.subscribe();
+...
+this.sig.update(...);
+```
+### Signal to Observable
+```
+newSig = toSignal(this.obs$, {initialValue: 0});
+```
+### Создание Observable
+```
+customInterval$ = new Observable((subscriber) => {
+  let times = 0;
+  const interval = setInterval(() => {
+    if (times > 3) {
+      clearInterval(interval);
+      subscriber.complete();
+      return;
+    }
+    subscriber.next({message: 'New value'});
+    times++;
+  }, 2000);
+});
+...
+this.customInterval$.subscribe({
+  next: (val) => console.log(val),
+  complete: () => console.log('Completed'),
+  error: (err) => console.log(err)
+});
+```
 
