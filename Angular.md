@@ -1,4 +1,7 @@
 C 180
+# Сигналы
+
+
 # Способы инжектирования сервиса
 - @Injectable({provideIn: 'root'})
 - В main.ts bootstrapApplication(AppComponent, providers: [TaskService]})...
@@ -103,3 +106,61 @@ this.customInterval$.subscribe({
 });
 ```
 
+# HttpCLient
+### providers
+```
+bootstrapApplication(AppComponent, {
+  providers: [provideHttpClient()]
+}).catch((err) => console.log(err));
+
+либо
+
+@NgModule({
+  declarations: [
+    AppComponent,
+    PlacesComponent,
+    // ... etc
+  ],
+  imports: [BrowserModule, FormsModule],
+  providers: [provideHttpClient()],
+  bootstrap: [AppComponent],
+})
+export class AppModule {}
+```
+
+Besides defining HTTP interceptors as functions (which is the modern, recommended way of doing it), you can also define HTTP interceptors via classes.
+
+For example, the loggingInterceptor from the previous lecture could be defined like this (when using this class-based approach):
+
+import {
+  HttpEvent,
+  HttpHandler,
+  HttpInterceptor,
+  HttpRequest,
+} from '@angular/common/http';
+import { Observable } from 'rxjs';
+ 
+@Injectable()
+class LoggingInterceptor implements HttpInterceptor {
+  intercept(req: HttpRequest<unknown>, handler: HttpHandler): Observable<HttpEvent<any>> {
+    console.log('Request URL: ' + req.url);
+    return handler.handle(req);
+  }
+}
+An interceptor defined like this, must be provided in a different way than before though.
+
+Instead of providing it like this:
+
+providers: [
+  provideHttpClient(
+    withInterceptors([loggingInterceptor]),
+  )
+],
+You now must use withInterceptorsFromDi() and set up a custom provider, like this:
+
+providers: [
+  provideHttpClient(
+    withInterceptorsFromDi()
+  ),
+  { provide: HTTP_INTERCEPTORS, useClass: LoggingInterceptor, multi: true }
+]
