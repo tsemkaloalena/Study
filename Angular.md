@@ -48,4 +48,21 @@ this.zone.runOutsideAngular(() => {...});
 })
 ```
 
+# Подписки
+```
+message$ = new BehaviorSubject<>();
+...
+this.message$.next(...);
+...
+this.messageService.message$.subscribe((message) => { // Подписка на message$
+  this.cdRef.markForCheck();
+})
+```
+
+Внутри html  с помощью async pipe
+```
+<div *ngFor="let message of messages$ | async"></div>
+```
+
+
 
