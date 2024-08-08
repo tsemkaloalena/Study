@@ -128,10 +128,11 @@ bootstrapApplication(AppComponent, {
 export class AppModule {}
 ```
 
+### http interceptor
 Besides defining HTTP interceptors as functions (which is the modern, recommended way of doing it), you can also define HTTP interceptors via classes.
 
 For example, the loggingInterceptor from the previous lecture could be defined like this (when using this class-based approach):
-
+```
 import {
   HttpEvent,
   HttpHandler,
@@ -147,20 +148,54 @@ class LoggingInterceptor implements HttpInterceptor {
     return handler.handle(req);
   }
 }
+```
 An interceptor defined like this, must be provided in a different way than before though.
 
 Instead of providing it like this:
-
+```
 providers: [
   provideHttpClient(
     withInterceptors([loggingInterceptor]),
   )
 ],
+```
 You now must use withInterceptorsFromDi() and set up a custom provider, like this:
-
+```
 providers: [
   provideHttpClient(
     withInterceptorsFromDi()
   ),
   { provide: HTTP_INTERCEPTORS, useClass: LoggingInterceptor, multi: true }
 ]
+```
+
+# Управление формами
+- template-driven (ngModule)
+- reactive
+```
+@Component({
+  selector: 'app-login',
+  standalone: true,
+  imports: [ReactiveFormsModule],
+  templateUrl: '...',
+  styleUrl: '...'
+})
+export class LoginComponent {
+  form = new FormGroup({
+    email: new FormControl(''),
+    password: new FormControl('')
+  });
+
+  onSubmit() {
+    
+  }
+}
+
+html:
+...
+<form [formGroup]="form">
+  <input id="email" type="email" [formControl]="form.controls.email">
+  либо
+  <input id="email" type="email" formControlName="email">
+</form>
+```
