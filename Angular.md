@@ -183,7 +183,8 @@ providers: [
 export class LoginComponent {
   form = new FormGroup({
     email: new FormControl(''),
-    password: new FormControl('')
+    password: new FormControl(''),
+    role: new FormControl<CustomType>(...)
   });
 
   onSubmit() {
@@ -198,6 +199,18 @@ html:
   либо
   <input id="email" type="email" formControlName="email">
 </form>
+```
+
+Контроль массива:
+```
+source: new FormArray([
+  new FormControl(false),
+  new FormControl(false),
+  new FormControl(false)
+])
+
+...
+<fieldset formArrayName="source"> 
 ```
 
 ### Валидация
