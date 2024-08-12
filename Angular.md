@@ -312,7 +312,12 @@ export class LoginComponent implements OnInit {
 providers: [provideRouter, withComponentInputBinding()]
 ```
 То можно брать значение из 'users/:userId' чезер Input() userId
-
-Либо с помощью ActivatedRoute: this.activatedRoute.paramMap.subscribe((paramMap) => {
+Либо с помощью ActivatedRoute:
+```
+this.activatedRoute.paramMap.subscribe((paramMap) => {
   const id = param.get('userId');
 });
+
+или
+this.activatedRoute.paramMap.get('userId')
+```
