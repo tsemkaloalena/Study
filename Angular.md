@@ -300,3 +300,16 @@ export class LoginComponent implements OnInit {
   }
 }
 ```
+
+# Перенаправление между страницами
+```
+<a href=""></a> - перезагружает страницу целиокм
+<a routerLink=""></a> - меняет только router-outlet
+```
+### Взятие значения из ссылки
+Если прописать
+```
+providers: [provideRouter, withComponentInputBinding()]
+```
+То можно брать значение из 'users/:userId' чезер Input() userId
+
