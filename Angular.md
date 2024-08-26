@@ -358,4 +358,69 @@ export class UserNameResolver implements Resolve<string> {
 }
 ```
 
+## Guard
+```
+@Injectable({ providedIn: 'root' })
+class CanMatchTeamSection implements CanMatch {
+  constructor(private router: Router) {}
+  canMatch(route: Route, segments: UrlSegment[]) {
+    const shouldGetAccess = Math.random();
+    if (shouldGetAccess < 0.5) {
+      return true;
+    }
+    return new RedirectCommand(this.router.parseUrl('/unauthorized'));
+  }
+}
+...
+{
+  path: 'users/:userId', // <your-domain>/users/<uid>
+  component: UserTasksComponent,
+  children: userRoutes,
+  canMatch: [CanMatchTeamSection],
+  data: {
+    message: 'Hello!',
+  },
+  resolve: {
+    userName: resolveUserName,
+  },
+  title: resolveTitle,
+},
+```
 
+### Навигация
+```
+this.router.navigate(['./'], {
+  relativeTo: this.activatedRoute,
+  onSameUrlNavigation: 'reload',
+  queryParamsHandling: 'preserve'
+})
+```
+
+## Lazy Load
+```
+вместо component: TasksComponent:
+loadComponent: () => import('../tasks/tasks.compomemt').then((mod) => mod.TasksComponent)
+
+либо loadChildren: () => import('./users/users.routes').then(mod => mod.routes) в app.routes.ts 
+```
+
+## defer
+```
+@defer(on interaction; prefetchon hover) {
+  <app-offer-preview />
+} @placeholder {
+  <p class="fallback">Offer...</p>
+}
+```
+
+# Виды деплоя
+1) SPA - Single Page Applications - ng add @angular/fire
+2) SSR - Server Side Rendering - браузер получает готовые сгенерированные страницы - ng add @angular/ssr -> npm run build -> npm run serve:ssr:routing<br>
+Необходимо обернуть обращение к localStorage в afterNextRender:
+```
+afterNextRender(() => {
+  const tasks = localStorage.getItem('tasks')
+})
+```
+
+4) SSG - Static Site Generation 
