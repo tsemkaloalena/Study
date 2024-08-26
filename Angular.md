@@ -321,3 +321,41 @@ this.activatedRoute.paramMap.subscribe((paramMap) => {
 или
 this.activatedRoute.paramMap.get('userId')
 ```
+
+### QueryParam
+```
+<a routerLink="./" [queryParams]="{order: 'asc'}"></a>
+...
+this.activatedRoute.queryParams.subscribe(params => {
+  const a = params['order'];
+});
+```
+
+Либо
+```
+@Injectable({ providedIn: 'root' })
+export class UserNameResolver implements Resolve<string> {
+  constructor(private usersService: UsersService) {}
+  resolve(activatedRoute: ActivatedRouteSnapshot, state: RouterStateSnapshot) {
+    const userName =
+      this.usersService.users.find(
+        (u) => u.id === activatedRoute.paramMap.get('userId')
+      )?.name || '';
+    return userName;
+  }
+}
+...
+{
+  path: 'users/:userId', // <your-domain>/users/<uid>
+  component: UserTasksComponent,
+  children: userRoutes,
+  data: {
+    message: 'Hello!',
+  },
+  resolve: {
+    userName: UserNameResolver,
+  },
+}
+```
+
+
