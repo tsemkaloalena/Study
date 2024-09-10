@@ -7,7 +7,7 @@ lei parla - она, пАрла<br>
 Lei parla - Вы, пАрла<br>
 noi parliamo - мы, парлиАмо<br>
 voi parlate - вы, парлАте<br>
-loro parlano - они, пАрланоУДАРЕНИЕ НА КОРЕНЬ<br>
+loro parlano - они, пАрлано, УДАРЕНИЕ НА КОРЕНЬ<br>
 
 ### Отрицание
 io non mangio - я не ем<br>
