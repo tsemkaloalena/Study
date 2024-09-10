@@ -22,3 +22,32 @@ ascoltare - слушать<br>
 imparare - учить, узнавать<br>
 abitare - обитать, проживать - абитАре, но Абито<br>
 
+### Особенные глаголв
+avere - иметь<br>
+io ho<br>
+tu hai<br>
+lui ha<br>
+lei ha<br>
+Lei ha<br>
+noi abbiamo<br>
+voi avete<br>
+loro hanno<br>
+
+### Прошедшее время
+Глагол "иметь" + глагол с окончанием "ato"<br>
+io ho parlato - я говорил<br>
+io non ho parlato - я не говорил<br>
+
+### Вопросы
+Сhi? - кто<br>
+Сhe? - что, che cosa - что такое<br>
+Dove? - где<br>
+Quando? - когда<br>
+Perche? - почему<br>
+<br>
+Примеры:<br>
+Che cosa mangi? - Что ты ешь?<br>
+Che cosa tu hai mangiato? - Что ты съел?<br>
+Dove tu abiti? - Где ты живёшь?<br>
+Dove leu lavora? - Где она работает?<br>
+
