@@ -44,6 +44,8 @@ io non ho parlato - я не говорил<br>
 Dove? - где<br>
 Quando? - когда<br>
 Perche? - почему<br>
+Come? - как<br>
+Quanto? - сколько<br>
 <br>
 Примеры:<br>
 Che cosa mangi? - Что ты ешь?<br>
