@@ -21,6 +21,8 @@ amare - любить<br>
 ascoltare - слушать<br>
 imparare - учить, узнавать<br>
 abitare - обитать, проживать - абитАре, но Абито<br>
+stare - находиться, чувствовать<br>
+scusare - извинять<br>
 
 ### Особенные глаголв
 avere - иметь<br>
@@ -52,4 +54,21 @@ Che cosa mangi? - Что ты ешь?<br>
 Che cosa tu hai mangiato? - Что ты съел?<br>
 Dove tu abiti? - Где ты живёшь?<br>
 Dove leu lavora? - Где она работает?<br>
+
+### Приветствия
+Ciao - привет, пока<br>
+Buon giorno - добрый день<br>
+Buona sera - добрый вечер<br>
+Buona notte - доброй ночи<br>
+Arrivederci - до свидания<br>
+Piacere - удовольствие / приятно познакомиться<br>
+Come sta? - как Ваши дела?<br>
+Come stai? - как твои дела?<br>
+Io sto bene - у меня всё в порядке<br>
+Molto bene - очень хорошо<br>
+Male - плохо<br>
+Cosi-cosi - так себе<br>
+Grazie - спасибо<br>
+Prego - пожалуйста(просьба + ответ на спасибо)<br>
+Scusi - прошу прощения<br>
 
