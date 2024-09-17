@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/39a56c0e-465c-4a34-9943-ce227f963e7a)### Структура глагола:
+### Структура глагола:
 parlare<br>
 io parlo - я говорю, пАрло<br>
 tu parli - ты, пАрли<br>
