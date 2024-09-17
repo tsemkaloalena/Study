@@ -1,4 +1,4 @@
-### Структура глагола:
+![image](https://github.com/user-attachments/assets/39a56c0e-465c-4a34-9943-ce227f963e7a)### Структура глагола:
 parlare<br>
 io parlo - я говорю, пАрло<br>
 tu parli - ты, пАрли<br>
@@ -23,6 +23,11 @@ imparare - учить, узнавать<br>
 abitare - обитать, проживать - абитАре, но Абито<br>
 stare - находиться, чувствовать<br>
 scusare - извинять<br>
+essere - быть<br>
+fare - делать<br>
+chiamare - звать, называть, звонить<br>
+cantare - петь<br>
+lasciare - позволять, пускать<br>
 
 ### Особенные глаголв
 avere - иметь<br>
@@ -71,4 +76,51 @@ Cosi-cosi - так себе<br>
 Grazie - спасибо<br>
 Prego - пожалуйста(просьба + ответ на спасибо)<br>
 Scusi - прошу прощения<br>
+Mi chiamo ... - меня зовут ...<br>
+Come ti chiami? - как тебя зовут?<br>
+un po' (un pocco) - немного<br>
+
+### Глагол "быть"
+essere<br>
+io sono<br>
+tu sei<br>
+lui e<br>
+lei e<br>
+Lei e<br>
+noi siamo<br>
+voi siete<br>
+loro sono<br>
+<br>
+Dove e lei? - где она?<br>
+Chi e lui? - кто он?
+Chi tu sei? - кто ты?<br>
+
+### Глагод "делать"
+fare<br>
+io faccio<br>
+tu fai<br>
+lui fa<br>
+lei fa<br>
+Lei fa<br>
+noi facciamo<br>
+voi fate<br>
+loro fanno<br>
+
+### Союзы
+e - и<br>
+o - или<br>
+ma - но (+частица ну)<br>
+se - если<br>
+<br>
+questo - это<br>
+<br>
+Che cosa e questo? - что это?<br>
+Chi e questo? - кто это?<br>
+
+### Профессии
+attore - актёр<br>
+attrice - актриса<br>
+regista - режиссёр<br>
+scrittore - писатель<br>
+cantante - певиц, певица<br>
 
