@@ -35,6 +35,8 @@ provare - пробовать, стараться, пытаться, примен
 cercare - искать<br>
 trovare - находить<br>
 pensare - думать<br>
+volere - хотеть<br>
+sapere -знать, уметь<br>
 
 ### Особенные глаголв
 avere - иметь<br>
@@ -113,6 +115,28 @@ noi facciamo<br>
 voi fate<br>
 loro fanno<br>
 
+### Глагол "хотеть"
+volere<br>
+io voglio<br>
+tu vuoi<br>
+lui vuole<br>
+leu vuole<br>
+Lei vuole<br>
+noi vogliamo<br>
+voi volete<br>
+loro vogliono<br>
+
+### Глагол "знать"
+sapere<br>
+io so<br>
+tu sai<br>
+lui sa<br>
+lei sa<br>
+Lei sa<br>
+noi sappiamo<br>
+voi sapete<br>
+loro sanno<br>
+
 ### Союзы
 e - и<br>
 o - или<br>
@@ -131,8 +155,8 @@ regista - режиссёр<br>
 scrittore - писатель<br>
 cantante - певиц, певица<br>
 
-### Звуки
-окончание в русском - окончание в итальянском (прочтение)<br>
+### Похожие слова из латинского (в большинстве случаев)
+_окончание в русском - окончание в итальянском (прочтение)<br>_
 х - -<br>
 кт - tt<br>
 ге, ги - ge, gi (дже, джи)<br>
@@ -142,3 +166,15 @@ cantante - певиц, певица<br>
 альный - ale (але)<br>
 ивный - ivo (иво)<br>
 ический, ичный - ico<br>
+
+### Множественное число существительный и прилагательных
+italian_o_ - итальянец, итальянский - italian_i_<br>
+italian_a_ - italian_e_<br>
+<br>
+libro - libri<br>
+casa - case<br>
+
+### Местоимения
+mi - мне<br>
+ti - тебе<br>
+
