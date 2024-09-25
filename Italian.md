@@ -183,10 +183,49 @@ amica - amiche - подруга<br>
 ### Местоимения
 mi - мне<br>
 ti - тебе<br>
+mio - мой, mia - моя; miei* - мои (м.р.), mie* - мои (ж.р.)<br>
+tuo - твой, tua - твоя; tuoi* - твои (м.р.), tue* - твои (ж.р.)<br>
+suo* - его/её, sua* - его/её; suoi* - его (м.р.), sue* - её (ж.р.)<br>
+nostro - наш, nostra - наша; nostri - наши (м.р.), nostre - наши (ж.р.)<br>
+vostro - ваш, vostra - ваша; vostri - ваши (м.р.), vostre - ваши (ж.р.)<br>
+loro - их<br>
+* - _изменяется в зависимости от того, что принадлежит, а не кому принадлежит_<br>
 <br>
 Примеры:<br>
 mi piace libri<br>
 mi piaciano<br>
 non mi piace - мне не нравится<br>
+suo padre - его отец, её отец<br>
+
+### Время
+ieri - вчера<br>
+oggi - сегодня<br>
+domani - завтра<br>
+adesso - теперь, сейчас, данный момент, настоящее время<br>
+mezzo - половина<br>
+Пример:<br>
+Ieri ho lavorato, oggi non lavoro - Вчера я работал, сегодня не работаю<br>
+Che ora e? - Который час?<br>
+Sono le due - Сейчас два часа<br>
+E la una - Сейчас один час<br>
+alle due - в два часа<br>
+
+### Семья
+famiglia - семья<br>
+padre - отец<br>
+madre - мать<br>
+figlia - дочь<br>
+figlio - сын<br>
+fratello - брат<br>
+sorella - сестра<br>
+marito - муж<br>
+moglie - жена<br>
+genitori - родители<br>
+nonno - дедушка<br>
+nonna - бабушка<br>
+zio - дядя<br>
+zia - тётя<br>
+
+
 
 
