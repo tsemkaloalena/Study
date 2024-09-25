@@ -19,6 +19,7 @@ giocare - играть<br>
 lavorare - работать<br>
 amare - любить<br>
 ascoltare - слушать<br>
+sentire - слышать, чувствовать (iro -> ito в пр.вр.)<br>
 imparare - учить, узнавать<br>
 abitare - обитать, проживать - абитАре, но Абито<br>
 vivere - жить (как живой организм)<br>
@@ -37,10 +38,19 @@ cercare - искать<br>
 trovare - находить<br>
 pensare - думать<br>
 volere - хотеть<br>
-sapere -знать, уметь<br>
+sapere - знать, уметь<br>
 bisogna - надо<br>
 dormire - спать<br>
 vendere - продавать<br>
+vedere - видеть (visto в пр.вр.)<br>
+rispondere - отвечать (risposto в пр.вр.)<br>
+aprire - открыть (aperto в пр.вр.)<br>
+chiudere - закрыть (chiuso в пр.вр)<br>
+domandare - спрашивать<br>
+prendere - брать (preso в пр.вр.)<br>
+
+<br>
+**В глаголах на ire, ere склонения в 3-м лице ед. ч. оканчиваются на e**<br>
 
 ### Особенные глаголв
 avere - иметь<br>
@@ -236,5 +246,5 @@ zio - дядя<br>
 zia - тётя<br>
 
 
-
+урок 5, 34 минуты
 
