@@ -21,6 +21,7 @@ amare - любить<br>
 ascoltare - слушать<br>
 imparare - учить, узнавать<br>
 abitare - обитать, проживать - абитАре, но Абито<br>
+vivere - жить (как живой организм)<br>
 stare - находиться, чувствовать<br>
 scusare - извинять<br>
 essere - быть<br>
@@ -142,6 +143,7 @@ e - и<br>
 o - или<br>
 ma - но (+частица ну)<br>
 se - если<br>
+solo - только<br>
 <br>
 questo - это<br>
 <br>
@@ -171,10 +173,20 @@ _окончание в русском - окончание в итальянск
 italian_o_ - итальянец, итальянский - italian_i_<br>
 italian_a_ - italian_e_<br>
 <br>
-libro - libri<br>
-casa - case<br>
+libro - libri - книга<br>
+giorno - giorni - день<br>
+figlio - figli - сын<br>
+figlia - figlie - дочь<br>
+casa - case - дом<br>
+amica - amiche - подруга<br>
 
 ### Местоимения
 mi - мне<br>
 ti - тебе<br>
+<br>
+Примеры:<br>
+mi piace libri<br>
+mi piaciano<br>
+non mi piace - мне не нравится<br>
+
 
