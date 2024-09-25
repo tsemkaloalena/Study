@@ -38,6 +38,9 @@ trovare - находить<br>
 pensare - думать<br>
 volere - хотеть<br>
 sapere -знать, уметь<br>
+bisogna - надо<br>
+dormire - спать<br>
+vendere - продавать<br>
 
 ### Особенные глаголв
 avere - иметь<br>
@@ -52,8 +55,14 @@ loro hanno<br>
 
 ### Прошедшее время
 Глагол "иметь" + глагол с окончанием "ato"<br>
+_are - ato<br>
+ire - ito<br>
+ere - uto<br>_
 io ho parlato - я говорил<br>
 io non ho parlato - я не говорил<br>
+parlare - parlato<br>
+dormire - dormito<br>
+vendere - venduto<br>
 
 ### Вопросы
 Сhi? - кто<br>
