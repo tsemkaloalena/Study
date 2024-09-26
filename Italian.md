@@ -48,12 +48,17 @@ aprire - открыть (aperto в пр.вр.)<br>
 chiudere - закрыть (chiuso в пр.вр)<br>
 domandare - спрашивать<br>
 prendere - брать (preso в пр.вр.)<br>
+andare - идти, ехать<br>
+venire - приходить, приезжать<br>
+decidere - решать (deciso в пр.вр.)<br>
+incontrare - встречать<br>
+aspettare - ждать<br>
 
 <br>
 **В глаголах на ire, ere склонения в 3-м лице ед. ч. оканчиваются на e**<br>
 
 ### Особенные глаголв
-avere - иметь<br>
+avere - иметь - avevo без вспомогательного<br>
 io ho<br>
 tu hai<br>
 lui ha<br>
@@ -73,6 +78,7 @@ io non ho parlato - я не говорил<br>
 parlare - parlato<br>
 dormire - dormito<br>
 vendere - venduto<br>
+piace - piacuto<br>
 
 ### Вопросы
 Сhi? - кто<br>
@@ -110,7 +116,7 @@ Come ti chiami? - как тебя зовут?<br>
 un po' (un pocco) - немного<br>
 
 ### Глагол "быть"
-essere<br>
+essere - stato (в пр.вр.) вместе с essere, а не avere<br>
 io sono<br>
 tu sei<br>
 lui e<br>
@@ -157,6 +163,24 @@ noi sappiamo<br>
 voi sapete<br>
 loro sanno<br>
 
+### Глагол "идти"
+andare - andato (в пр.вр) вместе с essere, а не avere<br>
+io vado<br>
+tu vai<br>
+lui va<br>
+noi andiamo<br>
+voi andate<br>
+loro vanno<br>
+
+### Глагол "приходить"
+venire - venuto (в пр.вр) вместе с essere, а не avere<br>
+io vengo<br>
+tu vieni<br>
+lui viene<br>
+noi veniamo<br>
+voi venite<br>
+loro vengono<br>
+
 ### Союзы
 e - и<br>
 o - или<br>
@@ -200,8 +224,7 @@ casa - case - дом<br>
 amica - amiche - подруга<br>
 
 ### Местоимения
-mi - мне<br>
-ti - тебе<br>
+_Чей?_ <br>
 mio - мой, mia - моя; miei* - мои (м.р.), mie* - мои (ж.р.)<br>
 tuo - твой, tua - твоя; tuoi* - твои (м.р.), tue* - твои (ж.р.)<br>
 suo* - его/её, sua* - его/её; suoi* - его (м.р.), sue* - её (ж.р.)<br>
@@ -210,11 +233,20 @@ vostro - ваш, vostra - ваша; vostri - ваши (м.р.), vostre - ваш�
 loro - их<br>
 _изменяется в зависимости от того, что принадлежит, а не кому принадлежит_*<br>
 <br>
+_Кому?_ <br>
+io - mi<br>
+tu - ti<br>
+lui - la<br>
+noi - ci<br>
+voi - vi<br>
+loro - li (м.р.), le (ж.р.)<br>
+
 Примеры:<br>
 mi piace libri<br>
 mi piaciano<br>
 non mi piace - мне не нравится<br>
 suo padre - его отец, её отец<br>
+loro mi hanno visto - они меня увидели<br>
 
 ### Время
 ieri - вчера<br>
@@ -222,7 +254,12 @@ oggi - сегодня<br>
 domani - завтра<br>
 adesso - теперь, сейчас, данный момент, настоящее время<br>
 mezzo - половина<br>
-Пример:<br>
+anno - anni - год<br>
+mese - mesi - месяц<br>
+ancora - ещё<br>
+gia - уже<br>
+<br>
+Примеры:<br>
 Ieri ho lavorato, oggi non lavoro - Вчера я работал, сегодня не работаю<br>
 Che ora e? - Который час?<br>
 Sono le due - Сейчас два часа<br>
