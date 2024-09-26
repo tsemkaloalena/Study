@@ -116,7 +116,7 @@ Come ti chiami? - как тебя зовут?<br>
 un po' (un pocco) - немного<br>
 
 ### Глагол "быть"
-essere - stato (в пр.вр.) вместе с essere, а не avere<br>
+essere - stato (в пр.вр.) вместе с essere, а не avere, окончание зависит от рода и числа<br>
 io sono<br>
 tu sei<br>
 lui e<br>
@@ -164,7 +164,7 @@ voi sapete<br>
 loro sanno<br>
 
 ### Глагол "идти"
-andare - andato (в пр.вр) вместе с essere, а не avere<br>
+andare - andato (в пр.вр) вместе с essere, а не avere, окончание зависит от рода и числа<br>
 io vado<br>
 tu vai<br>
 lui va<br>
@@ -173,7 +173,7 @@ voi andate<br>
 loro vanno<br>
 
 ### Глагол "приходить"
-venire - venuto (в пр.вр) вместе с essere, а не avere<br>
+venire - venuto (в пр.вр) вместе с essere, а не avere, окончание зависит от рода и числа<br>
 io vengo<br>
 tu vieni<br>
 lui viene<br>
@@ -283,5 +283,5 @@ zio - дядя<br>
 zia - тётя<br>
 
 
-урок 5, 34 минуты
+урок 7
 
