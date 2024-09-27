@@ -35,7 +35,7 @@ aiutare - помогать<br>
 insegnare - преподавать<br>
 provare - пробовать, стараться, пытаться, применять, репетировать<br>
 cercare - искать<br>
-trovare - находить<br>
+trovare - находить, trovarsi - находиться<br>
 pensare - думать<br>
 volere - хотеть<br>
 sapere - знать, уметь<br>
@@ -53,9 +53,20 @@ venire - приходить, приезжать<br>
 decidere - решать (deciso в пр.вр.)<br>
 incontrare - встречать<br>
 aspettare - ждать<br>
+alzarsi- подниматься<br>
+lavarsi - умываться<br>
+innamorarsi - влюбляться<br>
+svegliarsi - просыпаться<br>
+chiamarsi - называться<br>
+riposari - отдыхать<br>
+addormentarsi - засыпать<br>
+amarsi - любить себя, кого-то<br>
 
 <br>
 **В глаголах на ire, ere склонения в 3-м лице ед. ч. оканчиваются на e**<br>
+<br>
+io mi trova a Mosca - я нахожусь в Москве<br>
+Dove tu ti trovi adesso? - Где ты находишься сейчас?<br>
 
 ### Особенные глаголв
 avere - иметь - avevo без вспомогательного<br>
@@ -240,7 +251,15 @@ lui - la<br>
 noi - ci<br>
 voi - vi<br>
 loro - li (м.р.), le (ж.р.)<br>
-
+<br>
+_Кого?_ <br>
+io - mi<br>
+tu ti<br>
+lui si<br>
+noi - ci<br>
+voi - vi<br>
+loro-si<br>
+<br>
 Примеры:<br>
 mi piace libri<br>
 mi piaciano<br>
