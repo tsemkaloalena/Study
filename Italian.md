@@ -53,6 +53,10 @@ venire - приходить, приезжать<br>
 decidere - решать (deciso в пр.вр.)<br>
 incontrare - встречать<br>
 aspettare - ждать<br>
+capire - понимать<br>
+ridere - смеяться<br>
+divertire - развлекать<br>
+
 alzarsi- подниматься<br>
 lavarsi - умываться<br>
 innamorarsi - влюбляться<br>
@@ -126,7 +130,7 @@ Mi chiamo ... - меня зовут ...<br>
 Come ti chiami? - как тебя зовут?<br>
 un po' (un pocco) - немного<br>
 
-### Глагол "быть"
+#### Глагол "быть"
 essere - stato (в пр.вр.) вместе с essere, а не avere, окончание зависит от рода и числа<br>
 io sono<br>
 tu sei<br>
@@ -141,7 +145,7 @@ Dove e lei? - где она?<br>
 Chi e lui? - кто он?
 Chi tu sei? - кто ты?<br>
 
-### Глагод "делать"
+#### Глагод "делать"
 fare<br>
 io faccio<br>
 tu fai<br>
@@ -152,7 +156,7 @@ noi facciamo<br>
 voi fate<br>
 loro fanno<br>
 
-### Глагол "хотеть"
+#### Глагол "хотеть"
 volere<br>
 io voglio<br>
 tu vuoi<br>
@@ -163,7 +167,7 @@ noi vogliamo<br>
 voi volete<br>
 loro vogliono<br>
 
-### Глагол "знать"
+#### Глагол "знать"
 sapere<br>
 io so<br>
 tu sai<br>
@@ -174,7 +178,7 @@ noi sappiamo<br>
 voi sapete<br>
 loro sanno<br>
 
-### Глагол "идти"
+#### Глагол "идти"
 andare - andato (в пр.вр) вместе с essere, а не avere, окончание зависит от рода и числа<br>
 io vado<br>
 tu vai<br>
@@ -183,7 +187,7 @@ noi andiamo<br>
 voi andate<br>
 loro vanno<br>
 
-### Глагол "приходить"
+#### Глагол "приходить"
 venire - venuto (в пр.вр) вместе с essere, а не avere, окончание зависит от рода и числа<br>
 io vengo<br>
 tu vieni<br>
@@ -191,6 +195,16 @@ lui viene<br>
 noi veniamo<br>
 voi venite<br>
 loro vengono<br>
+
+#### Глагол "понимать"
+capire - capito (в пр.вр.)<br>
+capisco<br>
+capisci - капиши<br>
+capisce<br>
+capiamo<br>
+capite<br>
+capiscono<br>
+_Так же у finire, preferire (предпочитать), pulire (чистить), reagire(реагировать)_
 
 ### Союзы
 e - и<br>
