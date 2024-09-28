@@ -206,6 +206,15 @@ capite<br>
 capiscono<br>
 _Так же у finire, preferire (предпочитать), pulire (чистить), reagire(реагировать)_
 
+#### Глагол "Читать"
+leggere (letto в пр.вр.)<br>
+io leggo<br>
+tu leggi<br>
+lui, lei legge<br>
+noi leggiamo<br>
+voi leggete<br>
+loro leggono<br>
+
 ### Союзы
 e - и<br>
 o - или<br>
@@ -280,6 +289,15 @@ mi piaciano<br>
 non mi piace - мне не нравится<br>
 suo padre - его отец, её отец<br>
 loro mi hanno visto - они меня увидели<br>
+<br>
+tutto - всё<br>
+qualcosa - что-нибудь, кое-что, что-то<br>
+qualcuno - кто-то<br>
+niente - ничего<br>
+nessuno - никто<br>
+sempre - всегда<br>
+qualche volta - иногда<br>
+mai - никогда<br>
 
 ### Время
 ieri - вчера<br>
@@ -291,6 +309,7 @@ anno - anni - год<br>
 mese - mesi - месяц<br>
 ancora - ещё<br>
 gia - уже<br>
+molti anni fa - много лет назад<br>
 <br>
 Примеры:<br>
 Ieri ho lavorato, oggi non lavoro - Вчера я работал, сегодня не работаю<br>
@@ -315,6 +334,9 @@ nonna - бабушка<br>
 zio - дядя<br>
 zia - тётя<br>
 
+### Конструкция "есть"
+c'e (ci e) - non c'e - что-то есть в единственном числе
+ci sono - non ci sono - что-то есть в мн.ч.
 
 урок 7
 
