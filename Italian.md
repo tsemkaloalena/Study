@@ -71,6 +71,9 @@ amarsi - любить себя, кого-то<br>
 <br>
 io mi trova a Mosca - я нахожусь в Москве<br>
 Dove tu ti trovi adesso? - Где ты находишься сейчас?<br>
+<br>
+В прошедшем времени со всеми возвратными глаголами используется essere<br>
+<br>
 
 ### Особенные глаголв
 avere - иметь - avevo без вспомогательного<br>
@@ -310,6 +313,12 @@ mese - mesi - месяц<br>
 ancora - ещё<br>
 gia - уже<br>
 molti anni fa - много лет назад<br>
+mattina - утро<br>
+giorno - день<br>
+sera - вечер<br>
+notte - ночь<br>
+mezzanotte - полночь<br>
+mezzagiorne - полдень<br>
 <br>
 Примеры:<br>
 Ieri ho lavorato, oggi non lavoro - Вчера я работал, сегодня не работаю<br>
@@ -317,6 +326,21 @@ Che ora e? - Который час?<br>
 Sono le due - Сейчас два часа<br>
 E la una - Сейчас один час<br>
 alle due - в два часа<br>
+
+### Дни недели
+settimana - неделя<br>
+lunedi - понедельник<br>
+martedi - вторник<br>
+mercoledi - среда<br>
+giovedi - четверг<br>
+venerdi - пятница<br>
+sabato - суббота<br>
+domenica - воскресенье<br>
+<br>
+Примеры:<br>
+la scorsa settimana - на прошлой неделе<br>
+questa settimana - эта, на этой неделе<br>
+la prossima settimana - на следующей неделе<br>
 
 ### Семья
 famiglia - семья<br>
@@ -337,6 +361,3 @@ zia - тётя<br>
 ### Конструкция "есть"
 c'e (ci e) - non c'e - что-то есть в единственном числе
 ci sono - non ci sono - что-то есть в мн.ч.
-
-урок 7
-
