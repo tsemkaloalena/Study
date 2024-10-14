@@ -56,6 +56,8 @@ aspettare - ждать<br>
 capire - понимать<br>
 ridere - смеяться<br>
 divertire - развлекать<br>
+potere - мочь<br>
+bere - пить<br>
 
 alzarsi- подниматься<br>
 lavarsi - умываться<br>
@@ -218,6 +220,26 @@ noi leggiamo<br>
 voi leggete<br>
 loro leggono<br>
 
+#### Глагол "Мочь"
+potere - мочь (в пр.вр. potuto)<br>
+io posso<br>
+tu puoi<br>
+lui puo<br>
+lei puo<br>
+noi possiamo<br>
+voi potete<br>
+loro possono<br>
+
+#### Глагол "Пить"
+bere (в пр.вр. bevuto)<br>
+io bevo<br>
+tu bevi<br>
+lui beve<br>
+lei beve<br>
+noi beviamo<br>
+voi bevete<br>
+loro bevono<br>
+
 ### Союзы
 e - и<br>
 o - или<br>
@@ -310,6 +332,7 @@ adesso - теперь, сейчас, данный момент, настояще
 mezzo - половина<br>
 anno - anni - год<br>
 mese - mesi - месяц<br>
+seco - век<br>
 ancora - ещё<br>
 gia - уже<br>
 molti anni fa - много лет назад<br>
@@ -341,6 +364,30 @@ domenica - воскресенье<br>
 la scorsa settimana - на прошлой неделе<br>
 questa settimana - эта, на этой неделе<br>
 la prossima settimana - на следующей неделе<br>
+
+### Месяцы
+mese - месяц<br>
+mesi - месяцы<br>
+gennaio - январь<br>
+febbraio - февраль<br>
+marzo - март<br>
+aprile - апрель<br>
+maggio - май<br>
+giugnio - июнь<br>
+luglio - июль<br>
+agosto - август<br>
+settembre - сентябряь<br>
+ottoblre - октябрь<br>
+novembre - ноябрь<br>
+dicembre - декабрь<br>
+
+### Сезоны
+primavera - весна<br>
+estate - лето<br>
+autunno - осень<br>
+inverno - зима<br>
+<br>
+di primavera - весной<br>
 
 ### Семья
 famiglia - семья<br>
