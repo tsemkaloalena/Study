@@ -62,6 +62,8 @@ cucinare - готовить<br>
 assagare - пробовать<br>
 mostrare - показывать (mostra - выставка)<br>
 dare - давать<br>
+dire - говорить, сказать<br>
+tagliare - резать, стричь<br>
 
 <br>
 alzarsi- подниматься<br>
@@ -249,6 +251,34 @@ noi beviamo<br>
 voi bevete<br>
 loro bevono<br>
 
+### Глагол "Давать"
+dare - давать (dato в пр.вр.)<br>
+io do<br>
+tu dai<br>
+lui da<br>
+lei da<br>
+noi diamo<br>
+voi date<br>
+loro danno<br>
+**Примеры**<br>
+Dammi - дай мне<br>
+Date mi - дайте мне<br>
+
+### Глагол "Говорить, сказать"
+dire - говорить, сказать (detto в пр.вр.)<br>
+io dico<br>
+tu dici<br>
+lui dice<br>
+lei dice<br>
+noi diciamo<br>
+voi dite<br>
+loro dicono<br>
+**Примеры**<br>
+Dimmi - скажи мне<br>
+Dite mi - скажите мне<br>
+
+
+
 ### Союзы
 e - и<br>
 o - или<br>
@@ -310,11 +340,16 @@ notte - ночь<br>
 mezzanotte - полночь<br>
 mezzagiorne - полдень<br>
 <br>
+ogni - каждый<br>
+ogni giorno - каждый день<br>
+ogni volta - каждый раз<br>
+ogni sera - каждый вечер<br>
+<br>
 tre giorni - три дня<br>
 tra (или fra) tre giorni - через три дня<br>
 tre giorni fa - Три дня назад<br>
 <br>
-passato- прошлое<br>
+passato - прошлое<br>
 
 <br>
 Примеры:<br>
@@ -476,8 +511,39 @@ noi vi vediamo - мы вас видим<br>
 io li vedo - я вижу их (мужчин, смешанная компания)<br>
 io le vedo - я вижу их (женщин)<br>
 
+### Прилагательные
+bello - красивый<br>
+alto - высокий<br>
+basso - низкий<br>
+vecchio - старый<br>
+giovane - молодой, молодая<br>
+nuovo - новый<br>
+lungo - длинный<br>
+corto - короткий<br>
 
-<br><br>
+<br>
+alto - высокий<br>
+alta - высокая<br>
+alti - высокие (мужчины)<br>
+alte - высокие (женщины)<br>
+<br>
+capelli lunghi - длинные волосы<br>
+
+#### Сравнение
+molto - piu<br>
+много - больше<br>
+poco - meno<br>
+мало - меньше<br>
+<br>
+piu bello - красивее<br>
+piu alto - выше<br>
+lui e piu alto di me - он выше меня<br>
+io sono piu basso di lui - я ниже его<br>
+
+
+
+<br><br><br><br><br>
+per esempio - например<br>
 purtroppo - к сожалению<br>
 che peccato - какая жалость<br>
 questo e normale - всё нормально<br>
