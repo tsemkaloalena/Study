@@ -64,6 +64,12 @@ mostrare - показывать (mostra - выставка)<br>
 dare - давать<br>
 dire - говорить, сказать<br>
 tagliare - резать, стричь<br>
+viaggiare - путешествовать<br>
+nuotare - плавать<br>
+abbronzarsi - загорать<br>
+nuocere - вредить<br>
+sciare - кататься на лыжах<br>
+pattinare - кататься на коньках<br>
 
 <br>
 alzarsi- подниматься<br>
@@ -340,6 +346,12 @@ notte - ночь<br>
 mezzanotte - полночь<br>
 mezzagiorne - полдень<br>
 <br>
+sempre - всегда<br>
+qualche volta - иногда<br>
+mai - никогда<br>
+tardi - поздно<br>
+di solito - обычно<br>
+<br>
 ogni - каждый<br>
 ogni giorno - каждый день<br>
 ogni volta - каждый раз<br>
@@ -427,6 +439,7 @@ fare cena - ужинать<br>
 **Погода на улице**<br>
 fa caldo - тепло<br>
 fa freddo - холодно<br>
+piove - идёт дождь<br>
 Che tempo fa? - Какая погода?<br>
 Ieri ho avuto freddo - Вчера мне было холодно<br>
 Oggi io ho caldo - Сегодня мне жарко<br>
@@ -472,10 +485,7 @@ qualcosa - что-нибудь, кое-что, что-то<br>
 qualcuno - кто-то<br>
 niente - ничего<br>
 nessuno - никто<br>
-sempre - всегда<br>
-qualche volta - иногда<br>
-mai - никогда<br>
-tardi - поздно<br>
+insieme - вместе<br>
 
 ### Предлоги
 con - с<br>
@@ -513,6 +523,7 @@ io li vedo - я вижу их (мужчин, смешанная компания
 io le vedo - я вижу их (женщин)<br>
 
 ### Прилагательные
+stesso - одинаковый<br>
 bello - красивый<br>
 alto - высокий<br>
 basso - низкий<br>
@@ -532,6 +543,8 @@ destra - правый<br>
 sinistra - левый<br>
 a destra - направо<br>
 a sinistra - налево<br>
+noioso - скучный<br>
+interessante - интересный<br>
 
 <br>
 alto - высокий<br>
@@ -542,6 +555,7 @@ alte - высокие (женщины)<br>
 capelli lunghi - длинные волосы<br>
 
 #### Сравнение
+troppo - слишком<br>
 molto - piu<br>
 много - больше<br>
 poco - meno<br>
@@ -574,12 +588,32 @@ barbetta - бородка<br>
 
 
 <br><br><br><br><br>
+a proposito - кстати<br>
 per esempio - например<br>
 purtroppo - к сожалению<br>
 che peccato - какая жалость<br>
 questo e normale - всё нормально<br>
 facile - легко<br>
 difficile - трудно<br>
+ragiona, causa - причина<br>
+essere d'accordo - быть согласным<br>
+soldi - деньги<br>
+mi bastano i soldi - мне хватает денег<br>
+forse - может быть<br>
+avere paura - бояться, иметь страх<br>
+zitto (дзитто), zitta - замолчи, тихо<br>
+silenzio - тишина<br>
+paese - страна<br>
+selvaggio - дикарь<br>
+albergo - гостиница<br>
+montagna - гора<br>
+vacanze - каникулы, отпуск<br>
+io mi riposo - я отдыхаю<br>
+in stesso modo - одинаковым способом<br>
+
+<br>
+"Se non e vero e ben trovato" - "Если это не правда, то хорошо придумано"<br>
+
 
 ### Топ 10 популярных слов
 amore - любовь<br>
@@ -592,3 +626,4 @@ felice - счастливый<br>
 triste - грустный<br>
 io - я<br>
 tu - ты<br>
+
