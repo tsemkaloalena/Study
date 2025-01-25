@@ -61,6 +61,7 @@ bere - пить<br>
 cucinare - готовить<br>
 assagare - пробовать<br>
 mostrare - показывать (mostra - выставка)<br>
+dare - давать<br>
 
 <br>
 alzarsi- подниматься<br>
