@@ -475,6 +475,7 @@ nessuno - никто<br>
 sempre - всегда<br>
 qualche volta - иногда<br>
 mai - никогда<br>
+tardi - поздно<br>
 
 ### Предлоги
 con - с<br>
@@ -520,6 +521,17 @@ giovane - молодой, молодая<br>
 nuovo - новый<br>
 lungo - длинный<br>
 corto - короткий<br>
+freddo - холодный<br>
+caldo - горячий<br>
+giusto - правильный<br>
+sbagliato - неправильный<br>
+coretto - исправленный<br>
+allegro - весёлый<br>
+triste - печальный<br>
+destra - правый<br>
+sinistra - левый<br>
+a destra - направо<br>
+a sinistra - налево<br>
 
 <br>
 alto - высокий<br>
@@ -535,10 +547,29 @@ molto - piu<br>
 poco - meno<br>
 мало - меньше<br>
 <br>
+bene - meglio<br
+хорошо - лучше<br>
+male - peggio<br>
+плохо - хуже<br>
+<br>
+Примеры<br>
 piu bello - красивее<br>
 piu alto - выше<br>
 lui e piu alto di me - он выше меня<br>
 io sono piu basso di lui - я ниже его<br>
+
+### Человек
+capelli - волосы<br>
+occhi - глаза<br>
+naso - нос<br>
+la testa - голова<br>
+le mani - руки<br>
+una mano - одна рука<br>
+la mano destra - правая рука<br>
+la mano sinistra - левая рука<br>
+bellezza - красота<br>
+barba - борода<br>
+barbetta - бородка<br>
 
 
 
@@ -550,3 +581,14 @@ questo e normale - всё нормально<br>
 facile - легко<br>
 difficile - трудно<br>
 
+### Топ 10 популярных слов
+amore - любовь<br>
+vita - жизнь<br>
+cuore - сердце<br>
+anima - душа<br>
+occhi - глаза<br>
+canzone - песня<br>
+felice - счастливый<br>
+triste - грустный<br>
+io - я<br>
+tu - ты<br>
