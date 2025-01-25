@@ -26,7 +26,7 @@ vivere - жить (как живой организм)<br>
 stare - находиться, чувствовать<br>
 scusare - извинять<br>
 essere - быть<br>
-fare - делать<br>
+fare - делать (fatto в пр.вр.)<br>
 chiamare - звать, называть, звонить<br>
 cantare - петь<br>
 lasciare - позволять, пускать<br>
@@ -58,15 +58,20 @@ ridere - смеяться<br>
 divertire - развлекать<br>
 potere - мочь<br>
 bere - пить<br>
+cucinare - готовить<br>
+assagare - пробовать<br>
+mostrare - показывать (mostra - выставка)<br>
 
+<br>
 alzarsi- подниматься<br>
 lavarsi - умываться<br>
 innamorarsi - влюбляться<br>
 svegliarsi - просыпаться<br>
 chiamarsi - называться<br>
-riposari - отдыхать<br>
+riposarsi - отдыхать<br>
 addormentarsi - засыпать<br>
 amarsi - любить себя, кого-то<br>
+incontrarsi - встретиться<br>
 
 <br>
 **В глаголах на ire, ere склонения в 3-м лице ед. ч. оканчиваются на e**<br>
@@ -151,7 +156,7 @@ Chi e lui? - кто он?
 Chi tu sei? - кто ты?<br>
 
 #### Глагол "делать"
-fare<br>
+fare - fatto в пр.вр.<br>
 io faccio<br>
 tu fai<br>
 lui fa<br>
@@ -285,48 +290,6 @@ figlia - figlie - дочь<br>
 casa - case - дом<br>
 amica - amiche - подруга<br>
 
-### Местоимения
-_Чей?_ <br>
-mio - мой, mia - моя; miei* - мои (м.р.), mie* - мои (ж.р.)<br>
-tuo - твой, tua - твоя; tuoi* - твои (м.р.), tue* - твои (ж.р.)<br>
-suo* - его/её, sua* - его/её; suoi* - его (м.р.), sue* - её (ж.р.)<br>
-nostro - наш, nostra - наша; nostri - наши (м.р.), nostre - наши (ж.р.)<br>
-vostro - ваш, vostra - ваша; vostri - ваши (м.р.), vostre - ваши (ж.р.)<br>
-loro - их<br>
-_изменяется в зависимости от того, что принадлежит, а не кому принадлежит_*<br>
-<br>
-_Кому?_ <br>
-io - mi<br>
-tu - ti<br>
-lui - la<br>
-noi - ci<br>
-voi - vi<br>
-loro - li (м.р.), le (ж.р.)<br>
-<br>
-_Кого?_ <br>
-io - mi<br>
-tu ti<br>
-lui si<br>
-noi - ci<br>
-voi - vi<br>
-loro-si<br>
-<br>
-Примеры:<br>
-mi piace libri<br>
-mi piaciano<br>
-non mi piace - мне не нравится<br>
-suo padre - его отец, её отец<br>
-loro mi hanno visto - они меня увидели<br>
-<br>
-tutto - всё<br>
-qualcosa - что-нибудь, кое-что, что-то<br>
-qualcuno - кто-то<br>
-niente - ничего<br>
-nessuno - никто<br>
-sempre - всегда<br>
-qualche volta - иногда<br>
-mai - никогда<br>
-
 ### Время
 ieri - вчера<br>
 oggi - сегодня<br>
@@ -349,6 +312,8 @@ mezzagiorne - полдень<br>
 tre giorni - три дня<br>
 tra (или fra) tre giorni - через три дня<br>
 tre giorni fa - Три дня назад<br>
+<br>
+passato- прошлое<br>
 
 <br>
 Примеры:<br>
@@ -429,6 +394,92 @@ fa freddo - холодно<br>
 Che tempo fa? - Какая погода?<br>
 Ieri ho avuto freddo - Вчера мне было холодно<br>
 Oggi io ho caldo - Сегодня мне жарко<br>
+Tu hai freddo? - Тебе холодно?<br>
+Tu sai, che tempo fa domani? - Ты знаешь, какая завтра будет погода?<br>
+
+### Местоимения
+_Чей?_ <br>
+mio - мой, mia - моя; miei* - мои (м.р.), mie* - мои (ж.р.)<br>
+tuo - твой, tua - твоя; tuoi* - твои (м.р.), tue* - твои (ж.р.)<br>
+suo* - его/её, sua* - его/её; suoi* - его (м.р.), sue* - её (ж.р.)<br>
+nostro - наш, nostra - наша; nostri - наши (м.р.), nostre - наши (ж.р.)<br>
+vostro - ваш, vostra - ваша; vostri - ваши (м.р.), vostre - ваши (ж.р.)<br>
+loro - их<br>
+_изменяется в зависимости от того, что принадлежит, а не кому принадлежит_*<br>
+<br>
+_Кому?_ <br>
+io - mi<br>
+tu - ti<br>
+lui - lo<br>
+lei - la<br>
+noi - ci<br>
+voi - vi<br>
+loro - li (м.р.), le (ж.р.)<br>
+<br>
+_Кого?_ <br>
+io - mi<br>
+tu - ti<br>
+lui - si<br>
+noi - ci<br>
+voi - vi<br>
+loro-si<br>
+<br>
+Примеры:<br>
+mi piace libri<br>
+mi piaciano<br>
+non mi piace - мне не нравится<br>
+suo padre - его отец, её отец<br>
+loro mi hanno visto - они меня увидели<br>
+<br>
+tutto - всё<br>
+qualcosa - что-нибудь, кое-что, что-то<br>
+qualcuno - кто-то<br>
+niente - ничего<br>
+nessuno - никто<br>
+sempre - всегда<br>
+qualche volta - иногда<br>
+mai - никогда<br>
+
+### Предлоги
+con - с<br>
+senza - без<br>
+in - в<br>
+a - в (касательно городов)<br>
+da - из (откуда), к (человеку)<br>
+di - пренадлежность (amico di mio fratello - друг моего брата)<br>
+per - для, чтобы<br>
+dopo - после<br>
+<br>
+**С местоимениями**<br>
+con me - со мной<br>
+con te - с тобой<br>
+con lui - с ним<br>
+con lei - с ней<br>
+con noi - с нами<br>
+con voi - с вами<br>
+con loro - с ними<br>
+<br>
+per chi? - для кого?<br>
+per che? - для чего?<br>
+per me - для меня<br>
+per te - для тебя<br>
+per capire - _чтобы_ понимать<br>
+<br>
+**Примеры**<br>
+tu mi vedi - ты меня видишь<br>
+io ti vedo - я тебя вижу<br>
+io lo vedo - я его вижу<br>
+io la vedo - я её вижу<br>
+voi ci vedete - вы нас видите<br>
+noi vi vediamo - мы вас видим<br>
+io li vedo - я вижу их (мужчин, смешанная компания)<br>
+io le vedo - я вижу их (женщин)<br>
 
 
+<br><br>
+purtroppo - к сожалению<br>
+che peccato - какая жалость<br>
+questo e normale - всё нормально<br>
+facile - легко<br>
+difficile - трудно<br>
 
