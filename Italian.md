@@ -150,7 +150,7 @@ Dove e lei? - где она?<br>
 Chi e lui? - кто он?
 Chi tu sei? - кто ты?<br>
 
-#### Глагод "делать"
+#### Глагол "делать"
 fare<br>
 io faccio<br>
 tu fai<br>
@@ -229,6 +229,9 @@ lei puo<br>
 noi possiamo<br>
 voi potete<br>
 loro possono<br>
+<br>
+si puo - можно<br>
+non si puo - нельзя<br>
 
 #### Глагол "Пить"
 bere (в пр.вр. bevuto)<br>
@@ -343,6 +346,11 @@ notte - ночь<br>
 mezzanotte - полночь<br>
 mezzagiorne - полдень<br>
 <br>
+tre giorni - три дня<br>
+tra (или fra) tre giorni - через три дня<br>
+tre giorni fa - Три дня назад<br>
+
+<br>
 Примеры:<br>
 Ieri ho lavorato, oggi non lavoro - Вчера я работал, сегодня не работаю<br>
 Che ora e? - Который час?<br>
@@ -408,3 +416,19 @@ zia - тётя<br>
 ### Конструкция "есть"
 c'e (ci e) - non c'e - что-то есть в единственном числе
 ci sono - non ci sono - что-то есть в мн.ч.
+
+### Использование глаголов в сочетании
+**Приёмы пищи**
+fare colazione - завтракать<br>
+fare pranzo - обедать<br>
+fare cena - ужинать<br>
+<br>
+**Погода на улице**<br>
+fa caldo - тепло<br>
+fa freddo - холодно<br>
+Che tempo fa? - Какая погода?<br>
+Ieri ho avuto freddo - Вчера мне было холодно<br>
+Oggi io ho caldo - Сегодня мне жарко<br>
+
+
+
