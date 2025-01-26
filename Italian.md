@@ -74,6 +74,7 @@ girare un film - снимать фильм<br>
 scrivere - писать<br>
 recitare - играть (роль)<br>
 partecipare - принимать участие<br>
+tolerare - терпеть<br>
 
 <br>
 alzarsi- подниматься<br>
@@ -550,6 +551,10 @@ a destra - направо<br>
 a sinistra - налево<br>
 noioso - скучный<br>
 interessante - интересный<br>
+utile - полезный<br>
+inutile - бесполезный<br>
+ricco - богатый<br>
+povero - бедный<br>
 
 <br>
 alto - высокий<br>
@@ -599,6 +604,8 @@ purtroppo - к сожалению<br>
 che peccato - какая жалость<br>
 questo e normale - всё нормально<br>
 salute - будь здоров<br>
+se io posso dire cosi - если я могу так сказать<br>
+
 facile - легко<br>
 difficile - трудно<br>
 ragiona, causa - причина<br>
@@ -632,4 +639,16 @@ felice - счастливый<br>
 triste - грустный<br>
 io - я<br>
 tu - ты<br>
+
+### Языки
+tedesco - немецкий<br>
+francese - французский<br>
+italiano - итальянский<br>
+inglese - ангийский<br>
+danese - датский<br>
+finlandese - финский<br>
+svedese - шведский<br>
+cinese - китайский<br>
+romeno - румынский<br>
+
 
