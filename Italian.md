@@ -70,6 +70,10 @@ abbronzarsi - загорать<br>
 nuocere - вредить<br>
 sciare - кататься на лыжах<br>
 pattinare - кататься на коньках<br>
+girare un film - снимать фильм<br>
+scrivere - писать<br>
+recitare - играть (роль)<br>
+partecipare - принимать участие<br>
 
 <br>
 alzarsi- подниматься<br>
@@ -81,6 +85,7 @@ riposarsi - отдыхать<br>
 addormentarsi - засыпать<br>
 amarsi - любить себя, кого-то<br>
 incontrarsi - встретиться<br>
+allenarsi - тренироваться, заниматься спортом<br>
 
 <br>
 **В глаголах на ire, ere склонения в 3-м лице ед. ч. оканчиваются на e**<br>
@@ -593,6 +598,7 @@ per esempio - например<br>
 purtroppo - к сожалению<br>
 che peccato - какая жалость<br>
 questo e normale - всё нормально<br>
+salute - будь здоров<br>
 facile - легко<br>
 difficile - трудно<br>
 ragiona, causa - причина<br>
