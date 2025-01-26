@@ -555,6 +555,7 @@ utile - полезный<br>
 inutile - бесполезный<br>
 ricco - богатый<br>
 povero - бедный<br>
+impeccabile - безупречный<br>
 
 <br>
 alto - высокий<br>
@@ -587,6 +588,7 @@ capelli - волосы<br>
 occhi - глаза<br>
 naso - нос<br>
 la testa - голова<br>
+faccia - лицо<br>
 le mani - руки<br>
 una mano - одна рука<br>
 la mano destra - правая рука<br>
@@ -623,6 +625,7 @@ montagna - гора<br>
 vacanze - каникулы, отпуск<br>
 io mi riposo - я отдыхаю<br>
 in stesso modo - одинаковым способом<br>
+vicino - рядом<br>
 
 <br>
 "Se non e vero e ben trovato" - "Если это не правда, то хорошо придумано"<br>
